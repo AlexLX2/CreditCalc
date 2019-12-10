@@ -28,3 +28,5 @@ class MainActivity : AppCompatActivity() {
         txtResultRate.text = "First payment: " + Math.ceil(rate)
     }
 }
+//TODO Добавить досрочную выплату
+//TODO Добавить календарь оплат
